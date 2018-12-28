@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1545873579 source:c:\users\sivgrbur\google drive\personnel\07 self\codes\hpcounter\high precision counter\main.c
+	<time.h>
+	<stdint.h>
+	<stdlib.h>
+	<inttypes.h>
+	<omp.h>
+
+1546004487 source:e:\gdrive mat.viguier_gmail.com\personnel\07 self\codes\hpcounter\high precision counter\main.c
+	<sys/time.h>
+	<stdio.h>
+	<stdint.h>
+	<stdlib.h>
+	<inttypes.h>
+	<omp.h>
+	<io.h>
+

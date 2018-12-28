@@ -1,0 +1,6 @@
+#include <windows.h>
+
+int main(void){
+uint_fast64_t WinTimeStart,WinTimeEnd = GetSystemTimeAsFileTime((FILETIME*)&wintime);
+printf("%lld", WinTimeStart);
+}
